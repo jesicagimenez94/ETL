@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="localhost_SQLEXPRESS.Venta"
+  DTS:DTSID="{A689AD09-7C46-4D4A-8E12-D93AA3154FC3}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=localhost\SQLEXPRESS;Initial Catalog=Venta;Integrated Security=True;Application Name=SSIS-Ventas-{A689AD09-7C46-4D4A-8E12-D93AA3154FC3}localhost\SQLEXPRESS.Venta;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
